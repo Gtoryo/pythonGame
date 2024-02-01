@@ -6,7 +6,7 @@ Comet Fall Game
 
 Comet Fall Game est un jeu sympa que j'ai développé en reprenant le jeu de base et en y ajoutant quelques fonctionnalités supplémentaires.
 
-![Alt text](ImageGame.png)
+![Alt text](imageGame.png)
 
 
 # Installation: 
