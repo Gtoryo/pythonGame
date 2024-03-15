@@ -4,7 +4,7 @@ Comet Fall Game
 
 # Description :
 
-Comet Fall Game est un jeu sympa que j'ai développé en reprenant le jeu de base et en y ajoutant quelques fonctionnalités supplémentaires.
+Meteor Shower Game est un jeu sympa que j'ai développé en reprenant le jeu de base et en y ajoutant quelques fonctionnalités supplémentaires.
 
 ![Alt text](imageGame.png)
 
