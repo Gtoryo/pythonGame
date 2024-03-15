@@ -15,6 +15,6 @@ Rien de plus simple.
 
 - Assurez vous d'avoir `Python v3` d'installer sur votre machine
 
-- Pour installer la bibliothèque Pygame, il vous suffit d'exécuter la commande `pip install pygame`. Une fois l'installation terminée, vous serez prêt à jouer à Comet Fall Game!
+- Pour installer la bibliothèque Pygame, il vous suffit d'exécuter la commande `pip install pygame`. Une fois l'installation terminée, vous serez prêt à jouer à Meteor Shower Game!
 
 
